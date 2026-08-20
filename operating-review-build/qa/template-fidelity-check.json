@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-08-20T06:00:07.216Z",
+  "workspace": "D:\\RAG Projrects\\Test\\operating-review-build",
+  "finalPptx": "D:\\RAG Projrects\\Test\\Clinical_Guideline_RAG_Operating_Review.pptx",
+  "starterPptx": "D:\\RAG Projrects\\Test\\operating-review-build\\template-starter.pptx",
+  "mapPath": "D:\\RAG Projrects\\Test\\operating-review-build\\template-frame-map.json",
+  "starterLayoutDir": "D:\\RAG Projrects\\Test\\operating-review-build\\template-starter-layout",
+  "finalLayoutDir": "D:\\RAG Projrects\\Test\\operating-review-build\\final-render",
+  "editDir": "D:\\RAG Projrects\\Test\\operating-review-build",
+  "issueCount": 0,
+  "issues": []
+}

@@ -1,0 +1,5 @@
+Slide 1: Replaces template title metadata with project identity and repository snapshot date.
+Slide 2: Replaces generic agenda table entries with operating-review topics.
+Slides 7, 9, 10, 17, 28, 30: Replaces sample copy with project facts from PROJECT_OVERVIEW.md and eval/evaluation_report.json.
+Slide 31: Replaces generic close with decision requests for the next review.
+All selected slides: Delete inherited empty footer placeholders; retain slide numbers and template chrome.

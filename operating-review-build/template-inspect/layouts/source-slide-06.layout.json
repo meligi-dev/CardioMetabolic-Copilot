@@ -1,0 +1,1693 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/x8f69ofe",
+    "id": "x8f69ofe",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout3.xml",
+    "layoutName": "Two Content",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "BOT Color Palette 2026",
+    "colors": {
+      "accent1": "#175CD4",
+      "accent2": "#0B3668",
+      "accent3": "#EDF5FE",
+      "accent4": "#7E91A8",
+      "accent5": "#004142",
+      "accent6": "#407879",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#08284F",
+      "lt2": "#F9FCFF",
+      "hlink": "#00ABFF",
+      "folHlink": "#430942"
+    },
+    "fontScheme": {
+      "name": "Helvetica Neue",
+      "majorFont": {
+        "latinTypeface": "Helvetica Neue"
+      },
+      "minorFont": {
+        "latinTypeface": "Helvetica Neue"
+      }
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout3.xml",
+      "name": "Two Content",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout3.xml/9",
+          "id": "9",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            41.33,
+            213.33,
+            581.33,
+            416
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout3.xml/10",
+          "id": "10",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            41.33,
+            659.31,
+            374.67,
+            25.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "vertical": 1,
+            "verticalAlignment": "bottom",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout3.xml/11",
+          "id": "11",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1184.18,
+            659.24,
+            54.48,
+            25.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "vertical": 1,
+            "verticalAlignment": "bottom",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout3.xml/12",
+          "id": "12",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            656.86,
+            213.33,
+            581.33,
+            416
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout3.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            41.33,
+            36.12,
+            1197.33,
+            109.97
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            41.33,
+            36.12,
+            1197.33,
+            109.97
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            41.33,
+            213.33,
+            1197.33,
+            416
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            41.33,
+            659.31,
+            374.67,
+            25.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "vertical": 1,
+            "verticalAlignment": "bottom",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1184.18,
+            659.24,
+            54.48,
+            25.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "vertical": 1,
+            "verticalAlignment": "bottom",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4bupgn6",
+      "id": "10",
+      "name": "Content Placeholder 9",
+      "bbox": [
+        41.33,
+        235.14,
+        581.33,
+        148.17
+      ],
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. \nDetail goes here\nDetail goes here",
+      "textPreview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus.  | Detail goes here | Detail...",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "index": 2,
+            "text": "Pellentesque ultricies quam ut massa luctus cursus."
+          },
+          {
+            "index": 3,
+            "text": "•Detail goes here"
+          },
+          {
+            "index": 4,
+            "text": "•Detail goes here"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+          "lineSpacingPercent": 114000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lorem ipsum dolor sit ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 2,
+              "text": "amet",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 3,
+              "text": ", ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 4,
+              "text": "consectetur",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 6,
+              "text": "adipiscing",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 7,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 8,
+              "text": "elit",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 9,
+              "text": ". ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 10,
+              "text": "Pellentesque",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 12,
+              "text": "ultricies",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 13,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 14,
+              "text": "quam",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 16,
+              "text": "ut",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 18,
+              "text": "massa",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 19,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 20,
+              "text": "luctus",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            },
+            {
+              "index": 21,
+              "text": " cursus. ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 2,
+          "text": "Detail goes here",
+          "lineSpacingPercent": 114000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detail goes here",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 3,
+          "text": "Detail goes here",
+          "lineSpacingPercent": 114000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detail goes here",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w32twb6l",
+      "id": "11",
+      "name": "Content Placeholder 10",
+      "bbox": [
+        656.86,
+        235.14,
+        581.33,
+        148.17
+      ],
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. \nDetail goes here\nDetail goes here",
+      "textPreview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus.  | Detail goes here | Detail...",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "index": 2,
+            "text": "Pellentesque ultricies quam ut massa luctus cursus."
+          },
+          {
+            "index": 3,
+            "text": "•Detail goes here"
+          },
+          {
+            "index": 4,
+            "text": "•Detail goes here"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lorem ipsum dolor sit ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 2,
+              "text": "amet",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 3,
+              "text": ", ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 4,
+              "text": "consectetur",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 6,
+              "text": "adipiscing",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 7,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 8,
+              "text": "elit",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 9,
+              "text": ". ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 10,
+              "text": "Pellentesque",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 12,
+              "text": "ultricies",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 13,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 14,
+              "text": "quam",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 16,
+              "text": "ut",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 18,
+              "text": "massa",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 19,
+              "text": " ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 20,
+              "text": "luctus",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 21,
+              "text": " cursus. ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 2,
+          "text": "Detail goes here",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detail goes here",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 3,
+          "text": "Detail goes here",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detail goes here",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zi98nu94",
+      "id": "3",
+      "name": "Title 2",
+      "bbox": [
+        41.33,
+        36.12,
+        822.67,
+        109.22
+      ],
+      "text": "Four points grid layout ",
+      "textPreview": "Four points grid layout",
+      "resolvedFontSize": 34.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "vertical": 1,
+        "fontSize": 34.67,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Four points grid layout"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Four points grid layout ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Four points grid layout "
+            }
+          ],
+          "bulletCharacter": "",
+          "lineSpacingPercent": 90000
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ml07i9sv",
+      "id": "6",
+      "name": "Footer Placeholder 5",
+      "bbox": [
+        41.33,
+        659.31,
+        374.67,
+        25.33
+      ],
+      "resolvedFontSize": 14.67,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "vertical": 1,
+        "fontSize": 14.67,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7m98ru9g",
+      "id": "7",
+      "name": "Slide Number Placeholder 6",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "text": "6",
+      "textPreview": "6",
+      "resolvedFontSize": 14.67,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "vertical": 1,
+        "fontSize": 14.67,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "bottom",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "6"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "6",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6",
+              "fontSize": 14.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhg7epsj",
+      "id": "2",
+      "name": "Content Placeholder 15",
+      "bbox": [
+        42.09,
+        189.52,
+        580.57,
+        23.24
+      ],
+      "geometry": "rect",
+      "text": "LOREM IPSUM DOLOR",
+      "textPreview": "LOREM IPSUM DOLOR",
+      "resolvedFontSize": 21.33,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 21.33,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LOREM IPSUM DOLOR"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LOREM IPSUM DOLOR",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LOREM IPSUM DOLOR",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#175CD4",
+              "bold": true,
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oryp8fah",
+      "id": "8",
+      "name": "Content Placeholder 15",
+      "bbox": [
+        657.69,
+        189.52,
+        580.57,
+        23.24
+      ],
+      "geometry": "rect",
+      "text": "LOREM IPSUM DOLOR",
+      "textPreview": "LOREM IPSUM DOLOR",
+      "resolvedFontSize": 21.33,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 21.33,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LOREM IPSUM DOLOR"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LOREM IPSUM DOLOR",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LOREM IPSUM DOLOR",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#175CD4",
+              "bold": true,
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1kbu1ov",
+      "id": "13",
+      "name": "Content Placeholder 9",
+      "bbox": [
+        41.33,
+        469.14,
+        581.33,
+        148.17
+      ],
+      "geometry": "rect",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. \nDetail goes here\nDetail goes here",
+      "textPreview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus.  | Detail goes here | Detail...",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "index": 2,
+            "text": "Pellentesque ultricies quam ut massa luctus cursus."
+          },
+          {
+            "index": 3,
+            "text": "•Detail goes here"
+          },
+          {
+            "index": 4,
+            "text": "•Detail goes here"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 2,
+          "text": "Detail goes here",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detail goes here",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 3,
+          "text": "Detail goes here",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detail goes here",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5svutgni",
+      "id": "14",
+      "name": "Content Placeholder 10",
+      "bbox": [
+        656.86,
+        469.14,
+        581.33,
+        148.17
+      ],
+      "geometry": "rect",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. \nDetail goes here\nDetail goes here",
+      "textPreview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus.  | Detail goes here | Detail...",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "index": 2,
+            "text": "Pellentesque ultricies quam ut massa luctus cursus."
+          },
+          {
+            "index": 3,
+            "text": "•Detail goes here"
+          },
+          {
+            "index": 4,
+            "text": "•Detail goes here"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 2,
+          "text": "Detail goes here",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detail goes here",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 3,
+          "text": "Detail goes here",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Detail goes here",
+              "fontSize": 21.33,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47mt0b6x",
+      "id": "15",
+      "name": "Content Placeholder 15",
+      "bbox": [
+        42.09,
+        423.52,
+        580.57,
+        23.24
+      ],
+      "geometry": "rect",
+      "text": "LOREM IPSUM DOLOR",
+      "textPreview": "LOREM IPSUM DOLOR",
+      "resolvedFontSize": 21.33,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 21.33,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LOREM IPSUM DOLOR"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LOREM IPSUM DOLOR",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LOREM IPSUM DOLOR",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#175CD4",
+              "bold": true,
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6dcr65c",
+      "id": "16",
+      "name": "Content Placeholder 15",
+      "bbox": [
+        657.69,
+        423.52,
+        580.57,
+        23.24
+      ],
+      "geometry": "rect",
+      "text": "LOREM IPSUM DOLOR",
+      "textPreview": "LOREM IPSUM DOLOR",
+      "resolvedFontSize": 21.33,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 21.33,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LOREM IPSUM DOLOR"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LOREM IPSUM DOLOR",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LOREM IPSUM DOLOR",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#175CD4",
+              "bold": true,
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

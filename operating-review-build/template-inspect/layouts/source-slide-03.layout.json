@@ -1,0 +1,3227 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ofy9wn61",
+    "id": "ofy9wn61",
+    "slide": 3,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "Title and Content",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "BOT Color Palette 2026",
+    "colors": {
+      "accent1": "#175CD4",
+      "accent2": "#0B3668",
+      "accent3": "#EDF5FE",
+      "accent4": "#7E91A8",
+      "accent5": "#004142",
+      "accent6": "#407879",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#08284F",
+      "lt2": "#F9FCFF",
+      "hlink": "#00ABFF",
+      "folHlink": "#430942"
+    },
+    "fontScheme": {
+      "name": "Helvetica Neue",
+      "majorFont": {
+        "latinTypeface": "Helvetica Neue"
+      },
+      "minorFont": {
+        "latinTypeface": "Helvetica Neue"
+      }
+    },
+    "typefaces": [
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "Title and Content",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/8",
+          "id": "8",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            41.33,
+            213.33,
+            1197.33,
+            416
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/9",
+          "id": "9",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            41.33,
+            659.31,
+            374.67,
+            25.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "vertical": 1,
+            "verticalAlignment": "bottom",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/10",
+          "id": "10",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1184.18,
+            659.24,
+            54.48,
+            25.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "vertical": 1,
+            "verticalAlignment": "bottom",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            41.33,
+            36.12,
+            1197.33,
+            109.97
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            41.33,
+            36.12,
+            1197.33,
+            109.97
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 1,
+            "vertical": 1,
+            "verticalAlignment": "top",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            41.33,
+            213.33,
+            1197.33,
+            416
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            41.33,
+            659.31,
+            374.67,
+            25.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "vertical": 1,
+            "verticalAlignment": "bottom",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            1184.18,
+            659.24,
+            54.48,
+            25.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 3,
+            "vertical": 1,
+            "verticalAlignment": "bottom",
+            "insets": {
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9wf21cv",
+      "id": "534",
+      "name": "Google Shape;534;p58",
+      "bbox": [
+        41.33,
+        249.33,
+        581.33,
+        380
+      ],
+      "geometry": "rect",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor.\nIn hac habitasse platea dictumst. Proin mattis nibh risus. Nulla tempor ut massa elementum dapibus. Nam non ante quis enim fringilla tempus nec in lectus. In hac habitasse platea dictumst. \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor. In hac habitasse platea dictumst. \nProin mattis nibh risus. Nulla tempor ut massa elementum dapibus. Nam non ante quis enim fringilla tempus nec in lectus. \nIn hac habitasse platea dictumst. \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+      "textPreview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. Nullam pharetra mauris torto...",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "vertical": 1,
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 13,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque"
+          },
+          {
+            "index": 2,
+            "text": "ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor."
+          },
+          {
+            "index": 3,
+            "text": "•In hac habitasse platea dictumst. Proin mattis nibh risus. Nulla tempor ut"
+          },
+          {
+            "index": 4,
+            "text": "massa elementum dapibus. Nam non ante quis enim fringilla tempus nec"
+          },
+          {
+            "index": 5,
+            "text": "in lectus. In hac habitasse platea dictumst."
+          },
+          {
+            "index": 6,
+            "text": "•Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque"
+          },
+          {
+            "index": 7,
+            "text": "ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor. In"
+          },
+          {
+            "index": 8,
+            "text": "hac habitasse platea dictumst."
+          },
+          {
+            "index": 9,
+            "text": "•Proin mattis nibh risus. Nulla tempor ut massa elementum dapibus. Nam"
+          },
+          {
+            "index": 10,
+            "text": "non ante quis enim fringilla tempus nec in lectus."
+          },
+          {
+            "index": 11,
+            "text": "In hac habitasse platea dictumst."
+          },
+          {
+            "index": 12,
+            "text": "•Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque"
+          },
+          {
+            "index": 13,
+            "text": "ultricies quam ut massa luctus cursus."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor.",
+          "lineSpacingPercent": 114000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lorem ipsum dolor sit ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 2,
+              "text": "amet",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 3,
+              "text": ", ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 4,
+              "text": "consectetur",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 6,
+              "text": "adipiscing",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 7,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 8,
+              "text": "elit",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 9,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 10,
+              "text": "Pellentesque",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 12,
+              "text": "ultricies",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 13,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 14,
+              "text": "quam",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 16,
+              "text": "ut",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 18,
+              "text": "massa",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 19,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 20,
+              "text": "luctus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 21,
+              "text": " cursus. ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 22,
+              "text": "Nullam",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 23,
+              "text": " pharetra ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 24,
+              "text": "mauris",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 25,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 26,
+              "text": "tortor",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 27,
+              "text": ".",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 2,
+          "text": "In hac habitasse platea dictumst. Proin mattis nibh risus. Nulla tempor ut massa elementum dapibus. Nam non ante quis enim fringilla tempus nec in lectus. In hac habitasse platea dictumst. ",
+          "lineSpacingPercent": 114000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "In hac ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 2,
+              "text": "habitasse",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 3,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 4,
+              "text": "platea",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 6,
+              "text": "dictumst",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 7,
+              "text": ". Proin ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 8,
+              "text": "mattis",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 9,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 10,
+              "text": "nibh",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 12,
+              "text": "risus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 13,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 14,
+              "text": "Nulla",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 16,
+              "text": "tempor",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 18,
+              "text": "ut",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 19,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 20,
+              "text": "massa",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 21,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 22,
+              "text": "elementum",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 23,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 24,
+              "text": "dapibus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 25,
+              "text": ". Nam non ante quis ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 26,
+              "text": "enim",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 27,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 28,
+              "text": "fringilla",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 29,
+              "text": " tempus nec in ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 30,
+              "text": "lectus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 31,
+              "text": ". In hac ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 32,
+              "text": "habitasse",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 33,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 34,
+              "text": "platea",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 35,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 36,
+              "text": "dictumst",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 37,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 3,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor. In hac habitasse platea dictumst. ",
+          "lineSpacingPercent": 114000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lorem ipsum dolor sit ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 2,
+              "text": "amet",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 3,
+              "text": ", ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 4,
+              "text": "consectetur",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 6,
+              "text": "adipiscing",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 7,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 8,
+              "text": "elit",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 9,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 10,
+              "text": "Pellentesque",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 12,
+              "text": "ultricies",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 13,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 14,
+              "text": "quam",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 16,
+              "text": "ut",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 18,
+              "text": "massa",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 19,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 20,
+              "text": "luctus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 21,
+              "text": " cursus. ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 22,
+              "text": "Nullam",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 23,
+              "text": " pharetra ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 24,
+              "text": "mauris",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 25,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 26,
+              "text": "tortor",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 27,
+              "text": ". In hac ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 28,
+              "text": "habitasse",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 29,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 30,
+              "text": "platea",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 31,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 32,
+              "text": "dictumst",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 33,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 4,
+          "text": "Proin mattis nibh risus. Nulla tempor ut massa elementum dapibus. Nam non ante quis enim fringilla tempus nec in lectus. \nIn hac habitasse platea dictumst. ",
+          "lineSpacingPercent": 114000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "Proin ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 2,
+              "text": "mattis",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 3,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 4,
+              "text": "nibh",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 6,
+              "text": "risus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 7,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 8,
+              "text": "Nulla",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 9,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 10,
+              "text": "tempor",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 12,
+              "text": "ut",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 13,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 14,
+              "text": "massa",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 16,
+              "text": "elementum",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 18,
+              "text": "dapibus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 19,
+              "text": ". Nam non ante quis ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 20,
+              "text": "enim",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 21,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 22,
+              "text": "fringilla",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 23,
+              "text": " tempus nec in ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 24,
+              "text": "lectus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 25,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 26,
+              "text": "\n"
+            },
+            {
+              "index": 27,
+              "text": "In hac ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 28,
+              "text": "habitasse",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 29,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 30,
+              "text": "platea",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 31,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 32,
+              "text": "dictumst",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 33,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 5,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+          "lineSpacingPercent": 114000,
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lorem ipsum dolor sit ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 2,
+              "text": "amet",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 3,
+              "text": ", ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 4,
+              "text": "consectetur",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 6,
+              "text": "adipiscing",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 7,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 8,
+              "text": "elit",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 9,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 10,
+              "text": "Pellentesque",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 12,
+              "text": "ultricies",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 13,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 14,
+              "text": "quam",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 16,
+              "text": "ut",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 18,
+              "text": "massa",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 19,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 20,
+              "text": "luctus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            },
+            {
+              "index": 21,
+              "text": " cursus. ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/507y1gbi",
+      "id": "533",
+      "name": "Google Shape;533;p58",
+      "bbox": [
+        41.33,
+        36.12,
+        1197.33,
+        109.22
+      ],
+      "geometry": "rect",
+      "text": "High-level business update and priorities. ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+      "textPreview": "High-level business update and priorities. ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus...",
+      "resolvedFontSize": 34.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "vertical": 1,
+        "fontSize": 34.67,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "High-level business update and priorities. ipsum dolor sit amet, consectetur"
+          },
+          {
+            "index": 2,
+            "text": "adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "High-level business update and priorities. ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+          "runs": [
+            {
+              "index": 1,
+              "text": "High-level business update and priorities. ipsum dolor sit "
+            },
+            {
+              "index": 2,
+              "text": "amet"
+            },
+            {
+              "index": 3,
+              "text": ", "
+            },
+            {
+              "index": 4,
+              "text": "consectetur"
+            },
+            {
+              "index": 5,
+              "text": " "
+            },
+            {
+              "index": 6,
+              "text": "adipiscing"
+            },
+            {
+              "index": 7,
+              "text": " "
+            },
+            {
+              "index": 8,
+              "text": "elit"
+            },
+            {
+              "index": 9,
+              "text": ". "
+            },
+            {
+              "index": 10,
+              "text": "Pellentesque"
+            },
+            {
+              "index": 11,
+              "text": " "
+            },
+            {
+              "index": 12,
+              "text": "ultricies"
+            },
+            {
+              "index": 13,
+              "text": " "
+            },
+            {
+              "index": 14,
+              "text": "quam"
+            },
+            {
+              "index": 15,
+              "text": " "
+            },
+            {
+              "index": 16,
+              "text": "ut"
+            },
+            {
+              "index": 17,
+              "text": " "
+            },
+            {
+              "index": 18,
+              "text": "massa"
+            },
+            {
+              "index": 19,
+              "text": " "
+            },
+            {
+              "index": 20,
+              "text": "luctus"
+            },
+            {
+              "index": 21,
+              "text": " cursus. "
+            }
+          ],
+          "bulletCharacter": "",
+          "lineSpacingPercent": 90000
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cza94vmx",
+      "id": "2",
+      "name": "Footer Placeholder 1",
+      "bbox": [
+        41.33,
+        659.31,
+        374.67,
+        25.33
+      ],
+      "resolvedFontSize": 14.67,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "vertical": 1,
+        "fontSize": 14.67,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "bottom",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ah8rqlg",
+      "id": "5",
+      "name": "Slide Number Placeholder 4",
+      "bbox": [
+        1184.18,
+        659.24,
+        54.48,
+        25.33
+      ],
+      "text": "3",
+      "textPreview": "3",
+      "resolvedFontSize": 14.67,
+      "resolvedTextStyle": {
+        "anchor": 3,
+        "vertical": 1,
+        "fontSize": 14.67,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "right",
+        "verticalAlignment": "bottom",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3",
+              "fontSize": 14.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5cra54z",
+      "id": "8",
+      "name": "Content Placeholder 15",
+      "bbox": [
+        42.09,
+        190.1,
+        580.57,
+        23.24
+      ],
+      "geometry": "rect",
+      "text": "HIGHLIGHTS",
+      "textPreview": "HIGHLIGHTS",
+      "resolvedFontSize": 21.33,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 21.33,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HIGHLIGHTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HIGHLIGHTS",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HIGHLIGHTS",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#175CD4",
+              "bold": true,
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6ls3alk",
+      "id": "9",
+      "name": "Google Shape;534;p58",
+      "bbox": [
+        656.93,
+        249.33,
+        581.33,
+        380
+      ],
+      "geometry": "rect",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor.\nIn hac habitasse platea dictumst. Proin mattis nibh risus. Nulla tempor ut massa elementum dapibus. Nam non ante quis enim fringilla tempus nec in lectus. In hac habitasse platea dictumst. \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor. In hac habitasse platea dictumst. \nProin mattis nibh risus. Nulla tempor ut massa elementum dapibus. Nam non ante quis enim fringilla tempus nec in lectus. \nIn hac habitasse platea dictumst. \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+      "textPreview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. Nullam pharetra mauris torto...",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "vertical": 1,
+        "fontSize": 32,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 13,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque"
+          },
+          {
+            "index": 2,
+            "text": "ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor."
+          },
+          {
+            "index": 3,
+            "text": "•In hac habitasse platea dictumst. Proin mattis nibh risus. Nulla tempor ut"
+          },
+          {
+            "index": 4,
+            "text": "massa elementum dapibus. Nam non ante quis enim fringilla tempus nec"
+          },
+          {
+            "index": 5,
+            "text": "in lectus. In hac habitasse platea dictumst."
+          },
+          {
+            "index": 6,
+            "text": "•Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque"
+          },
+          {
+            "index": 7,
+            "text": "ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor. In"
+          },
+          {
+            "index": 8,
+            "text": "hac habitasse platea dictumst."
+          },
+          {
+            "index": 9,
+            "text": "•Proin mattis nibh risus. Nulla tempor ut massa elementum dapibus. Nam"
+          },
+          {
+            "index": 10,
+            "text": "non ante quis enim fringilla tempus nec in lectus."
+          },
+          {
+            "index": 11,
+            "text": "In hac habitasse platea dictumst."
+          },
+          {
+            "index": 12,
+            "text": "•Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque"
+          },
+          {
+            "index": 13,
+            "text": "ultricies quam ut massa luctus cursus."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor.",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lorem ipsum dolor sit ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 2,
+              "text": "amet",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 3,
+              "text": ", ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 4,
+              "text": "consectetur",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 6,
+              "text": "adipiscing",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 7,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 8,
+              "text": "elit",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 9,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 10,
+              "text": "Pellentesque",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 12,
+              "text": "ultricies",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 13,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 14,
+              "text": "quam",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 16,
+              "text": "ut",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 18,
+              "text": "massa",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 19,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 20,
+              "text": "luctus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 21,
+              "text": " cursus. ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 22,
+              "text": "Nullam",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 23,
+              "text": " pharetra ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 24,
+              "text": "mauris",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 25,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 26,
+              "text": "tortor",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 27,
+              "text": ".",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 2,
+          "text": "In hac habitasse platea dictumst. Proin mattis nibh risus. Nulla tempor ut massa elementum dapibus. Nam non ante quis enim fringilla tempus nec in lectus. In hac habitasse platea dictumst. ",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "In hac ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 2,
+              "text": "habitasse",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 3,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 4,
+              "text": "platea",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 6,
+              "text": "dictumst",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 7,
+              "text": ". Proin ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 8,
+              "text": "mattis",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 9,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 10,
+              "text": "nibh",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 12,
+              "text": "risus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 13,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 14,
+              "text": "Nulla",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 16,
+              "text": "tempor",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 18,
+              "text": "ut",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 19,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 20,
+              "text": "massa",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 21,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 22,
+              "text": "elementum",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 23,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 24,
+              "text": "dapibus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 25,
+              "text": ". Nam non ante quis ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 26,
+              "text": "enim",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 27,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 28,
+              "text": "fringilla",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 29,
+              "text": " tempus nec in ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 30,
+              "text": "lectus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 31,
+              "text": ". In hac ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 32,
+              "text": "habitasse",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 33,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 34,
+              "text": "platea",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 35,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 36,
+              "text": "dictumst",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 37,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 3,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. Nullam pharetra mauris tortor. In hac habitasse platea dictumst. ",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lorem ipsum dolor sit ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 2,
+              "text": "amet",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 3,
+              "text": ", ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 4,
+              "text": "consectetur",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 6,
+              "text": "adipiscing",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 7,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 8,
+              "text": "elit",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 9,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 10,
+              "text": "Pellentesque",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 12,
+              "text": "ultricies",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 13,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 14,
+              "text": "quam",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 16,
+              "text": "ut",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 18,
+              "text": "massa",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 19,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 20,
+              "text": "luctus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 21,
+              "text": " cursus. ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 22,
+              "text": "Nullam",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 23,
+              "text": " pharetra ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 24,
+              "text": "mauris",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 25,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 26,
+              "text": "tortor",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 27,
+              "text": ". In hac ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 28,
+              "text": "habitasse",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 29,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 30,
+              "text": "platea",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 31,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 32,
+              "text": "dictumst",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 33,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 4,
+          "text": "Proin mattis nibh risus. Nulla tempor ut massa elementum dapibus. Nam non ante quis enim fringilla tempus nec in lectus. \nIn hac habitasse platea dictumst. ",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Proin ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 2,
+              "text": "mattis",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 3,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 4,
+              "text": "nibh",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 6,
+              "text": "risus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 7,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 8,
+              "text": "Nulla",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 9,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 10,
+              "text": "tempor",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 12,
+              "text": "ut",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 13,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 14,
+              "text": "massa",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 16,
+              "text": "elementum",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 18,
+              "text": "dapibus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 19,
+              "text": ". Nam non ante quis ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 20,
+              "text": "enim",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 21,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 22,
+              "text": "fringilla",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 23,
+              "text": " tempus nec in ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 24,
+              "text": "lectus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 25,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 26,
+              "text": "\n",
+              "alignment": "left"
+            },
+            {
+              "index": 27,
+              "text": "In hac ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 28,
+              "text": "habitasse",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 29,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 30,
+              "text": "platea",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 31,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 32,
+              "text": "dictumst",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 33,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        },
+        {
+          "index": 5,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies quam ut massa luctus cursus. ",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lorem ipsum dolor sit ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 2,
+              "text": "amet",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 3,
+              "text": ", ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 4,
+              "text": "consectetur",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 5,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 6,
+              "text": "adipiscing",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 7,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 8,
+              "text": "elit",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 9,
+              "text": ". ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 10,
+              "text": "Pellentesque",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 11,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 12,
+              "text": "ultricies",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 13,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 14,
+              "text": "quam",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 15,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 16,
+              "text": "ut",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 17,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 18,
+              "text": "massa",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 19,
+              "text": " ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 20,
+              "text": "luctus",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            },
+            {
+              "index": 21,
+              "text": " cursus. ",
+              "fontSize": 18.67,
+              "typeface": "Helvetica Neue",
+              "color": "#000000",
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "•",
+          "marginLeft": 228600,
+          "indent": -228600
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n2l4fq98",
+      "id": "10",
+      "name": "Content Placeholder 15",
+      "bbox": [
+        657.69,
+        190.1,
+        580.57,
+        23.24
+      ],
+      "geometry": "rect",
+      "text": "LOWLIGHTS",
+      "textPreview": "LOWLIGHTS",
+      "resolvedFontSize": 21.33,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 21.33,
+        "typeface": "Helvetica Neue",
+        "color": "tx1",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LOWLIGHTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LOWLIGHTS",
+          "lineSpacingPercent": 114000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LOWLIGHTS",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#175CD4",
+              "bold": true,
+              "textTransform": "none"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,10 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-08-20T05:51:00.454Z",
+  "workspace": "D:\\RAG Projrects\\Test\\operating-review-build",
+  "mapPath": "D:\\RAG Projrects\\Test\\operating-review-build\\template-frame-map.json",
+  "inspectPath": "D:\\RAG Projrects\\Test\\operating-review-build\\template-inspect\\template-inspect.ndjson",
+  "sourceSlideCount": 31,
+  "issueCount": 0,
+  "issues": []
+}

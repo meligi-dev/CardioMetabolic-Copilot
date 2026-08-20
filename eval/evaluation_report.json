@@ -1,0 +1,121 @@
+{
+  "aggregate_metrics": {
+    "mean_retrieval_recall": 0.85,
+    "mean_recommendation_precision": 1.0,
+    "mean_recommendation_recall": 0.9,
+    "mean_safety_recall": 0.85,
+    "mean_f1_score": 0.9257142857142856
+  },
+  "cases": [
+    {
+      "case_id": "CARDIO_01_HFREF_T2D",
+      "specialty": "Cardiology / Endocrinology",
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "recommendation_precision": 1.0,
+      "recommendation_recall": 1.0,
+      "safety_contraindication_recall": 0.0,
+      "f1_score": 1.0,
+      "top_retrieved_source": "[ADA Standards of Care 2024] > [Chapter 10: Cardiovascular Disease and Risk Management] > [10.2 Glucose-Lowering Therapies with Cardiovascular and Renal Benefit] > [Recommendation 10.5 (Heart Failure with Diabetes):]"
+    },
+    {
+      "case_id": "NEPHRO_02_SEVERE_CKD_METFORMIN",
+      "specialty": "Nephrology / Endocrinology",
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "recommendation_precision": 1.0,
+      "recommendation_recall": 1.0,
+      "safety_contraindication_recall": 1.0,
+      "f1_score": 1.0,
+      "top_retrieved_source": "[ADA Standards of Care 2024] > [Chapter 9: Pharmacologic Approaches to Glycemic Treatment] > [9.2 Renal Thresholds and Organ-Specific Cutoffs] > [Metformin:]"
+    },
+    {
+      "case_id": "PULM_03_COPD_FREQUENT_EXACERBATOR",
+      "specialty": "Pulmonology",
+      "retrieval_precision": 0.6,
+      "retrieval_recall": 1.0,
+      "recommendation_precision": 1.0,
+      "recommendation_recall": 1.0,
+      "safety_contraindication_recall": 1.0,
+      "f1_score": 1.0,
+      "top_retrieved_source": "[GOLD & GINA 2024 Respiratory Guideline] > [COPD and Asthma Management in Hospital & Outpatient Settings] > [1. GOLD 2024 Chronic Obstructive Pulmonary Disease (COPD)] > [Recommendation 1.1 (Initial Pharmacotherapy by ABCD/E Groups):]"
+    },
+    {
+      "case_id": "PULM_04_ASTHMA_TRACK1_SMART",
+      "specialty": "Pulmonology",
+      "retrieval_precision": 1.0,
+      "retrieval_recall": 1.0,
+      "recommendation_precision": 1.0,
+      "recommendation_recall": 1.0,
+      "safety_contraindication_recall": 1.0,
+      "f1_score": 1.0,
+      "top_retrieved_source": "[GOLD & GINA 2024 Respiratory Guideline] > [COPD and Asthma Management in Hospital & Outpatient Settings] > [2. GINA 2024 Asthma Management & Track 1 SMART Therapy] > [Recommendation 2.1 (Anti-inflammatory Reliever Preference - Track 1):]"
+    },
+    {
+      "case_id": "INFECT_05_SEPTIC_SHOCK_BUNDLE",
+      "specialty": "Critical Care / Infectious Disease",
+      "retrieval_precision": 0.4,
+      "retrieval_recall": 0.5,
+      "recommendation_precision": 1.0,
+      "recommendation_recall": 0.25,
+      "safety_contraindication_recall": 1.0,
+      "f1_score": 0.4,
+      "top_retrieved_source": "[IDSA & Sepsis Campaign 2024] > [Infectious Disease & Acute Hospital Antibiotic Protocols] > [1. Surviving Sepsis Campaign: 1-Hour Hospital Bundle] > [Recommendation 1.3 (Vasopressor First-Line):]"
+    },
+    {
+      "case_id": "INFECT_06_COMMUNITY_PNEUMONIA",
+      "specialty": "Infectious Disease",
+      "retrieval_precision": 0.6,
+      "retrieval_recall": 1.0,
+      "recommendation_precision": 1.0,
+      "recommendation_recall": 1.0,
+      "safety_contraindication_recall": 1.0,
+      "f1_score": 1.0,
+      "top_retrieved_source": "[IDSA & Sepsis Campaign 2024] > [Infectious Disease & Acute Hospital Antibiotic Protocols] > [2. Community-Acquired Pneumonia (CAP) Inpatient Treatment] > [Recommendation 2.1 (Non-Severe Inpatient CAP):]"
+    },
+    {
+      "case_id": "PHARMA_07_PLAVIX_PPI_INTERACTION",
+      "specialty": "Clinical Pharmacology",
+      "retrieval_precision": 0.4,
+      "retrieval_recall": 0.5,
+      "recommendation_precision": 1.0,
+      "recommendation_recall": 1.0,
+      "safety_contraindication_recall": 1.0,
+      "f1_score": 1.0,
+      "top_retrieved_source": "[WHO & FDA Global Drug Formulary] > [Global Hospital Pharmacopeia & Renal Dosing Reference] > [1. Anticoagulation & Antiplatelet Formulary] > [Clopidogrel (Plavix):]"
+    },
+    {
+      "case_id": "ENDO_08_OBESITY_T2D_WEIGHT_LOSS",
+      "specialty": "Endocrinology",
+      "retrieval_precision": 0.8,
+      "retrieval_recall": 1.0,
+      "recommendation_precision": 1.0,
+      "recommendation_recall": 0.75,
+      "safety_contraindication_recall": 0.5,
+      "f1_score": 0.8571428571428571,
+      "top_retrieved_source": "[ADA Standards of Care 2024] > [Chapter 8: Obesity and Weight Management for the Prevention and Treatment of Type 2 Diabetes] > [8.1 Pharmacotherapy for Weight Loss in T2D] > [Recommendation 8.2 (Efficacy Tiers for Weight Loss):]"
+    },
+    {
+      "case_id": "CARDIO_09_HYPERTENSION_DUAL_INITIATION",
+      "specialty": "Cardiology",
+      "retrieval_precision": 0.8,
+      "retrieval_recall": 0.5,
+      "recommendation_precision": 1.0,
+      "recommendation_recall": 1.0,
+      "safety_contraindication_recall": 1.0,
+      "f1_score": 1.0,
+      "top_retrieved_source": "[ACC/AHA Clinical Practice Guideline] > [Hypertension and Dyslipidemia Management in Cardiovascular Disease] > [1. Blood Pressure Targets & Stepwise Pharmacotherapy] > [Recommendation 1.1 (Target Blood Pressure):]"
+    },
+    {
+      "case_id": "NEURO_10_DIABETIC_NEUROPATHY",
+      "specialty": "Neurology / Endocrinology",
+      "retrieval_precision": 0.4,
+      "retrieval_recall": 1.0,
+      "recommendation_precision": 1.0,
+      "recommendation_recall": 1.0,
+      "safety_contraindication_recall": 1.0,
+      "f1_score": 1.0,
+      "top_retrieved_source": "[ADA Standards of Care 2024] > [Chapter 12: Neuropathy, Retinopathy, and Diabetic Foot Care] > [12.1 Diabetic Peripheral Neuropathy (DPN) Screening & Pharmacotherapy] > [Recommendation 12.2 (First-Line Pharmacotherapy for Neuropathic Pain):]"
+    }
+  ]
+}

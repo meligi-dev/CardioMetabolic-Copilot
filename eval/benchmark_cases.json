@@ -1,0 +1,55 @@
+[
+  {
+    "id": "case_1_t2d_ckd_ascvd",
+    "description": "64yo male with T2D, eGFR 34, and prior MI",
+    "patient": {
+      "age": 64,
+      "gender": "Male",
+      "hba1c": 8.9,
+      "egfr": 34,
+      "has_ascvd": true,
+      "has_heart_failure": false,
+      "has_ckd": true,
+      "current_medications": ["Metformin 1000mg BID", "Atorvastatin 40mg"]
+    },
+    "expected_recommendations": [
+      "SGLT2 Inhibitor (Empagliflozin / Dapagliflozin)",
+      "GLP-1 RA (Semaglutide / Dulaglutide)"
+    ],
+    "expected_renal_rule": "Metformin dose capped at 1000mg/day maximum (eGFR 30-44)"
+  },
+  {
+    "id": "case_2_t2d_hfref",
+    "description": "58yo female with T2D and HFrEF (LVEF 30%)",
+    "patient": {
+      "age": 58,
+      "gender": "Female",
+      "hba1c": 7.8,
+      "egfr": 52,
+      "lvef": 30,
+      "has_ascvd": false,
+      "has_heart_failure": true,
+      "has_ckd": false,
+      "current_medications": ["Carvedilol", "Metformin"]
+    },
+    "expected_recommendations": [
+      "SGLT2 Inhibitor (Class I GDMT)",
+      "ARNI (Sacubitril/Valsartan)"
+    ],
+    "expected_contraindications": "Avoid Thiazolidinediones (Pioglitazone) in symptomatic HF"
+  },
+  {
+    "id": "case_3_severe_ckd_egfr_24",
+    "description": "71yo male with T2D and severe CKD Stage 4 (eGFR 24)",
+    "patient": {
+      "age": 71,
+      "gender": "Male",
+      "hba1c": 9.4,
+      "egfr": 24,
+      "has_ascvd": true,
+      "has_ckd": true,
+      "current_medications": ["Metformin 1000mg daily", "Glimepiride 4mg daily"]
+    },
+    "expected_renal_rule": "Stop Metformin immediately (Contraindicated for eGFR < 30)"
+  }
+]

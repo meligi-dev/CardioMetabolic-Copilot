@@ -1,0 +1,5 @@
+Source structure: 31-slide Operating Review template with a dark navy cover/close, white-body layouts, OpenAI Sans typography, and recurring small blue topic labels.
+Reusable patterns selected: cover (1), agenda table (2), workflow narrative (7), action checklist (9), 2x2 capability cards (10), two-card risk comparison (17), four KPI cards (28), six source cards (30), close (31).
+Inherited placeholders: titles, selected subtitles, slide numbers, and footer placeholders. All selected footer placeholders will be deleted; title/subtitle and content slots will be rewritten in place.
+Brand/assets: retain template navy gradient, rules, card styling, and native geometry. No external visual assets are added.
+Insertion contract: duplicate mapped slides only; update inherited text/table cells in place; do not add elements or restyle the template.

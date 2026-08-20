@@ -1,0 +1,92 @@
+[
+  {
+    "case_id": "CARDIO_01_HFREF_T2D",
+    "specialty": "Cardiology / Endocrinology",
+    "vignette": "62yo male with Type 2 Diabetes (HbA1c 8.4%) and newly diagnosed Heart Failure with Reduced Ejection Fraction (LVEF 30%). What guideline-directed medical therapies are recommended?",
+    "gold_standard_drugs": ["SGLT2 Inhibitor", "Empagliflozin", "Dapagliflozin", "ARNI", "Sacubitril/Valsartan", "Beta-Blocker", "MRA"],
+    "gold_standard_contraindications": ["Avoid Thiazolidinediones", "Pioglitazone", "Avoid NSAIDs"],
+    "expected_guidelines": ["ACC/AHA", "ADA"],
+    "expected_evidence_level": "Class I"
+  },
+  {
+    "case_id": "NEPHRO_02_SEVERE_CKD_METFORMIN",
+    "specialty": "Nephrology / Endocrinology",
+    "vignette": "68yo female with longstanding T2D whose eGFR dropped to 26 mL/min/1.73m2. Currently taking Metformin 1000mg BID. What are the urgent medication adjustments?",
+    "gold_standard_drugs": ["SGLT2 Inhibitor", "GLP-1 RA"],
+    "gold_standard_contraindications": ["Discontinue Metformin", "Contraindicated eGFR < 30", "Lactic Acidosis"],
+    "expected_guidelines": ["ADA", "KDIGO"],
+    "expected_evidence_level": "Class I"
+  },
+  {
+    "case_id": "PULM_03_COPD_FREQUENT_EXACERBATOR",
+    "specialty": "Pulmonology",
+    "vignette": "65yo heavy smoker with severe COPD, CAT score 22, hospitalized twice this year for exacerbations. Blood eosinophils 340 cells/uL. What is the recommended maintenance inhaler therapy?",
+    "gold_standard_drugs": ["Triple Therapy", "LABA", "LAMA", "ICS", "Inhaled Corticosteroid"],
+    "gold_standard_contraindications": ["SABA monotherapy insufficient"],
+    "expected_guidelines": ["GOLD"],
+    "expected_evidence_level": "Class I"
+  },
+  {
+    "case_id": "PULM_04_ASTHMA_TRACK1_SMART",
+    "specialty": "Pulmonology",
+    "vignette": "28yo female with moderate persistent asthma experiencing frequent daytime symptoms. What is the preferred reliever and controller strategy under GINA 2024?",
+    "gold_standard_drugs": ["ICS-Formoterol", "Budesonide/Formoterol", "SMART"],
+    "gold_standard_contraindications": ["SABA monotherapy without ICS is not recommended", "Class III"],
+    "expected_guidelines": ["GINA"],
+    "expected_evidence_level": "Class I"
+  },
+  {
+    "case_id": "INFECT_05_SEPTIC_SHOCK_BUNDLE",
+    "specialty": "Critical Care / Infectious Disease",
+    "vignette": "72yo male admitted with septic shock secondary to urosepsis (BP 78/45, Lactate 4.6 mmol/L). What is the 1-hour resuscitation and vasopressor protocol?",
+    "gold_standard_drugs": ["IV crystalloid 30 mL/kg", "Norepinephrine", "Broad-spectrum IV antibiotics", "Ceftriaxone"],
+    "gold_standard_contraindications": ["Do not delay antibiotics beyond 1 hour"],
+    "expected_guidelines": ["Surviving Sepsis", "IDSA"],
+    "expected_evidence_level": "Class I"
+  },
+  {
+    "case_id": "INFECT_06_COMMUNITY_PNEUMONIA",
+    "specialty": "Infectious Disease",
+    "vignette": "54yo non-ICU patient admitted with severe productive cough, fever, and right lobar consolidation. What is the first-line empiric antibiotic regimen?",
+    "gold_standard_drugs": ["Ceftriaxone", "Azithromycin", "Levofloxacin", "Respiratory Fluoroquinolone"],
+    "gold_standard_contraindications": ["Macrolide monotherapy inadequate in hospitalized patients"],
+    "expected_guidelines": ["IDSA"],
+    "expected_evidence_level": "Class I"
+  },
+  {
+    "case_id": "PHARMA_07_PLAVIX_PPI_INTERACTION",
+    "specialty": "Clinical Pharmacology",
+    "vignette": "60yo post-coronary stent patient on Clopidogrel (Plavix) complaining of severe acid reflux. Which proton pump inhibitor should be avoided, and what is preferred?",
+    "gold_standard_drugs": ["Pantoprazole"],
+    "gold_standard_contraindications": ["Avoid Omeprazole", "Avoid Esomeprazole", "CYP2C19 inhibition"],
+    "expected_guidelines": ["FDA", "Pharmacopeia"],
+    "expected_evidence_level": "Black Box Warning"
+  },
+  {
+    "case_id": "ENDO_08_OBESITY_T2D_WEIGHT_LOSS",
+    "specialty": "Endocrinology",
+    "vignette": "48yo female with T2D, BMI 38.5 kg/m2, baseline HbA1c 9.1%. Primary priority is maximal glycemic control and substantial weight loss (>15%). What are the highest-tier agents?",
+    "gold_standard_drugs": ["Tirzepatide", "Semaglutide", "Dual GIP/GLP-1 RA", "GLP-1 RA"],
+    "gold_standard_contraindications": ["Avoid Insulin and Sulfonylureas for weight loss priority", "Medullary Thyroid Carcinoma"],
+    "expected_guidelines": ["ADA"],
+    "expected_evidence_level": "Class I"
+  },
+  {
+    "case_id": "CARDIO_09_HYPERTENSION_DUAL_INITIATION",
+    "specialty": "Cardiology",
+    "vignette": "55yo male with newly confirmed blood pressure of 158/96 mmHg and microalbuminuria (UACR 120 mg/g). What is the recommended initiation strategy?",
+    "gold_standard_drugs": ["ACE inhibitor", "ARB", "Lisinopril", "Losartan", "Amlodipine", "CCB", "Thiazide"],
+    "gold_standard_contraindications": ["Never combine ACE inhibitor and ARB together", "Class III"],
+    "expected_guidelines": ["ACC/AHA", "ADA"],
+    "expected_evidence_level": "Class I"
+  },
+  {
+    "case_id": "NEURO_10_DIABETIC_NEUROPATHY",
+    "specialty": "Neurology / Endocrinology",
+    "vignette": "59yo patient with longstanding diabetes reporting burning dysesthesias and lancinating pain in both feet. What is the evidence-based first-line oral pharmacotherapy?",
+    "gold_standard_drugs": ["Duloxetine", "Pregabalin", "Gabapentin", "SNRI"],
+    "gold_standard_contraindications": ["Opioids are not recommended for neuropathic pain"],
+    "expected_guidelines": ["ADA"],
+    "expected_evidence_level": "Class I"
+  }
+]
