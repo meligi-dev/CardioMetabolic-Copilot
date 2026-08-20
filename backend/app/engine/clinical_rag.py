@@ -133,8 +133,13 @@ class ClinicalRAGEngine:
 
         # Extract potential specific query entities (e.g. capitalized drug/concept names in query)
         query_words = re.findall(r"\b[A-Z][a-z]{3,}\b", request.query)
-        # Exclude standard clinical terms
-        standard_terms = {"What", "Which", "Patient", "Heart", "Failure", "Diabetes", "Guideline", "Disease", "Kidney", "Blood", "Pressure"}
+        # Exclude standard clinical terms and English prose words from entity check
+        standard_terms = {
+            "What", "Which", "Patient", "Heart", "Failure", "Diabetes", "Guideline", "Guidelines", 
+            "Disease", "Kidney", "Blood", "Pressure", "Type", "Clinical", "Therapy", "Treatment", 
+            "Protocol", "Recommended", "Recommendation", "Management", "Care", "Stage", "Level", 
+            "Class", "Risk", "High", "Low", "Prior", "Established", "Option", "Options"
+        }
         specific_entities = [w for w in query_words if w not in standard_terms]
 
         missing_entities = [e for e in specific_entities if e.lower() not in all_retrieved_text]
